@@ -1,0 +1,319 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.title-nav {
+    height: 8vh;
+}
+
+.title {
+    float: left;
+    margin-left: 10%;
+    padding-top: 5px;
+
+}
+
+.title h2 {
+    font-size: 40px;
+}
+
+.nav {
+    float: right;
+}
+
+.nav ul {
+    padding-right: 70px;
+    padding-top: 15px;
+
+}
+
+.nav ul li {
+    display: inline-block;
+    padding-right: 25px;
+    list-style: none;
+
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.nav ul li.active a {
+    color: #19a34e;
+
+}
+
+.welcome-part {
+    height: 60vh;
+    background-image: url(../imgs/background.jpg);
+
+    margin-top:
+}
+
+.wel-des {
+    margin-left: 5%;
+    padding-top: 10%;
+}
+
+.welcome-part h1 {
+    color: white;
+    font-size: 45px;
+}
+
+.wel-p {
+    color: white;
+    margin-top: 10px;
+    font-size: 13px;
+}
+
+.wel-btn {
+    margin-top: 5px;
+}
+
+.news-part {
+    height: 60vh;
+}
+
+.news-ttl {
+    margin-top: 20px;
+}
+
+.news-des {
+    margin-top: 20px;
+}
+
+.news-ttl h3 {
+    text-align: center;
+    color: #19a34e;
+    font-size: 25px;
+}
+
+.img1 {
+    height: 200px;
+    width: 340px;
+}
+
+
+.news-left {
+    display: block;
+    padding-left: 10%;
+    float: left;
+    width: 25%;
+}
+
+.news-middle {
+    display: block;
+    float: left;
+    width: 25%;
+    padding-left: 2%;
+}
+
+.news-right {
+    display: block;
+    float: left;
+    width: 25%;
+    padding-left: 3%;
+}
+
+.news-part h5 {
+    font-size: 12px;
+    color: #19a34e;
+    padding-top: 4%;
+
+}
+
+.news-part p {
+    font-size: 10px;
+    padding-top: 4%;
+}
+
+.team-part {
+    background-color: #F5F5F5;
+}
+
+.team-ttl {
+    height: 10vh;
+    text-align: center;
+    padding-top: 2%;
+
+}
+
+.team-ttl h1 {
+    color: #19a34e;
+    font-size: 25px;
+}
+
+.team-ttl h4 {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.mdl-main {
+    height: 40vh;
+    margin-top: 30px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.mdl-left {
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin-left: 10%;
+}
+
+.mdl-middle {
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: -4px;
+
+}
+
+.mdl-right {
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin-left: 10%;
+
+
+}
+
+.img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.m-ttl h5 {
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.des {
+    font-size: 10px;
+    margin-top: 15px;
+}
+
+.cogno h4 {
+    font-size: 15px;
+    color: #19a34e;
+    margin-top: 5px;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #1e1f21;
+    height: 30vh;
+
+}
+
+footer ul li {
+    list-style: none;
+    padding-top: 5px;
+}
+
+footer ul li a {
+    text-decoration: none;
+
+}
+
+.f-ttl h2 {
+    color: #19a34e;
+    font-size: 15px;
+}
+
+.f-l-img {
+    height: 15px;
+    width: 15px;
+    float: left;
+}
+
+
+.f-des {
+    color: white;
+    font-size: 12px;
+}
+
+.fl-des {
+    margin-left: 12%;
+    font-size: 12px;
+}
+
+.f-left {
+    width: 15%;
+    margin-left: 10%;
+    padding-top: 2%;
+    float: left;
+}
+
+
+.home {
+    margin-top: 10px;
+}
+
+.mail {
+    margin-top: 10px;
+}
+
+.call {
+    margin-top: 10px;
+}
+
+.web {
+    margin-top: 10px;
+}
+
+
+.f-middle {
+    width: 15%;
+    padding-left: 13%;
+    margin-top: 2%;
+    float: left;
+}
+
+.f-right {
+    padding-left: 10%;
+    margin-top: 2%;
+    float: left;
+    width: 25%;
+}
+
+.scl-icon {
+    padding-top: 15px;
+}
+
+.icn {
+    height: 25px;
+    width: 25px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.f-right-btm {
+    margin-top: 10px;
+}
+
+.inputs {
+    margin-top: 10px;
+
+}
+
+button {
+    background-color: #19a34e;
+    border: none;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+
+}
+.span{
+    color: blue;
+}

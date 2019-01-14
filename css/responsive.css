@@ -1,0 +1,28 @@
+@media only screen and (min-width 1280px) {}
+
+
+
+
+
+
+@media only screen (min-width 768px) and (max-width 992px) {
+
+    .title h2 {
+        font-size: 20px;
+        padding-top: 2px;
+    }
+
+}
+
+
+
+@media only screen and (max-width 767px) {
+
+    .title-nav {
+        text-align: center;
+    }
+    
+    .welcome-part{
+        height: 20vh;
+    }
+}
